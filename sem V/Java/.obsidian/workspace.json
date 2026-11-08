@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "068e1bc773748d92",
+    "type": "split",
+    "children": [
+      {
+        "id": "d20af0d035778550",
+        "type": "tabs",
+        "dimension": 74.11575562700965,
+        "children": [
+          {
+            "id": "2a84926a7367e783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "section a/Inheritance.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inheritance"
+            },
+            "group": "210177f1b36fced9"
+          }
+        ]
+      },
+      {
+        "id": "d8bbbf5710fe2b5d",
+        "type": "tabs",
+        "dimension": 25.884244372990356,
+        "children": [
+          {
+            "id": "4fd62b6cef0c8904",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "section a/Inheritance.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Inheritance"
+            },
+            "group": "210177f1b36fced9"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35066a43737aa34e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f055970503258ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ccda60991589307",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e4e54444e1541d9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "14d8deb66a872e05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4a1c3a3a9a73daa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f45b7a721240b23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f10e140faaede4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "section a/Exception Handling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "74cd7231598c611c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "section a/Exception Handling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "041ac1afad68f507",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c5b8889479f2114e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "07ce64ee96d7b015",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "section a/Exception Handling.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2a84926a7367e783",
+  "lastOpenFiles": [
+    "section a/Introduction to Classes.md",
+    "section a/Introduction to Java.md",
+    "section b/JDBC programming.md",
+    "section b/IO.md",
+    "section b/Multithreading.md",
+    "section a/Exception Handling.md",
+    "section a/Inheritance.md",
+    "section b/Applets and Graphics.md",
+    "section b/section b.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "section a/section a.md",
+    "section b",
+    "section a.md",
+    "section a",
+    "Untitled Folder",
+    "Exception Handling.md",
+    "Inheritance.md",
+    "Introduction to Classes.md",
+    "Introduction to Java.md"
+  ]
+}

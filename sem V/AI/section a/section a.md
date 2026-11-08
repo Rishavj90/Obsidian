@@ -1,0 +1,4 @@
+- [[Introduction]]: notion of intelligence, levels and types of artificial intelligence, importance, advantages, and limitations of artificial intelligence, uses and applications of artificial intelligence.
+- [[Intelligent agents]]: structure of intelligent agent, agent performance, rational agent, types of agent environment, agent architectures. 
+- [[Problem solving using search]]: state space search, informed search strategies, uninformed search strategies, production system characteristics. 
+- [[Knowledge representation]]: approaches to knowledge representation, knowledge representation techniques (logical representation, semantic networks, frames, production rules), introduction to propositional logic, introduction to first order predicate logic, resolution in first order predicate logic, architecture of knowledge based agent.

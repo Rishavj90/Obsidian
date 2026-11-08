@@ -1,0 +1,4 @@
+- [[Introduction to Java]]: Features of Java, difference between Java and C++, JVM, Bytecode, machine code vs bytecode, data types, Wrapper types, variables, arrays, various control statements. 
+- [[Introduction to Classes]]: Class fundamentals, declaring objects, methods, constructors, garbage collection, passing parameters to methods, recursion. 
+- [[Inheritance]]: types of inheritance, Access Modifiers (Private, Public, Protected, Default), Polymorphism (Overloading, Overriding, Super & This Keyword), Final Variable, Final Classes & Methods, Static variable Static method, Abstract methods and classes, Packages and importing packages, interfaces, implementing multiple Inheritance. 
+- [[Exception Handling]]: Errors and Exception, types, try, catch, finally, throw and throws, creating exception subclasses, Exception handlers, Default and Custom exception Handling.

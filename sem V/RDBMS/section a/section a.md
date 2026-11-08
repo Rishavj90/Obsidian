@@ -1,0 +1,4 @@
+- [[Introduction of DBMS]]: DBMS architecture, Enhanced-ER (EER) Model Concepts: Specialization and Generalization, Union type, Constraints on Specialization and Generalization, Concept of Hierarchy and Lattice, EER-to-Relational Mapping.
+- [[Distributed Databases and Client-Server Architecture]]: Introduction to Distributed DBMS Concepts, Client-Server Architecture Overview, Data Fragmentation, Replication, and Allocation Techniques for Distributed Database Design, Types of Distributed Database Systems.
+- [[PL-SQL]]: Block Structure, Data Types, Creation of Variable, Scope, Nested Blocks, Control Structures. Records and Collections. Using SQL with PL/SQL: Cursors and its types. Subprograms: Stored and Local Procedures and Functions, Procedure vs Function.
+- [[Packages]]: Specification and Body, Triggers and its types. Introduction to Objects: Creating, Storing and Manipulating Objects.

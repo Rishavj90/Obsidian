@@ -1,0 +1,4 @@
+- [[Multithreading]]: Multithread programming, thread life cycle, thread priorities, synchronisation, interthread communication, Thread class methods, runnable interface,
+- [[IO]]: Input/Output, streams, reading and writing console input/output, reading and writing files.
+- [[Applets and Graphics]]: Applet fundamentals; Applet class; Applet life cycle, event handling; keyboard and mouse events; AWT class; Layout managers; panels; canvases; Frame windows.
+- [[JDBC programming]]: Commonly used classes and interfaces of java.sql package, connecting java application to a database, prepared statements, java server pages
